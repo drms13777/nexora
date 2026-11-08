@@ -39,12 +39,9 @@ export const SplashScreen: React.FC<SplashScreenProps> = ({ onComplete }) => {
           className="object-contain"
         />
       </div>
-      <h1 className="text-3xl font-extrabold text-white tracking-[0.2em] uppercase font-sans">
+      <h1 className="text-3xl font-extrabold text-white tracking-[0.2em] uppercase font-onest">
         Nexora
       </h1>
-      <p className="text-xs text-gray-400 mt-2 tracking-widest uppercase">
-        База Знаний
-      </p>
     </div>
   );
 };

@@ -47,7 +47,7 @@ export const AuthScreen: React.FC<AuthScreenProps> = ({ onLoginSuccess }) => {
                   className="object-contain"
                 />
               </div>
-              <h1 className="text-3xl font-extrabold tracking-[0.15em] uppercase text-gray-900">
+              <h1 className="text-3xl font-onest tracking-[0.08em] uppercase text-gray-900">
                 <span className="text-[#5B21B6]">Nexora</span>
               </h1>
               <p className="text-gray-500 text-xs mt-3 max-w-xs mx-auto leading-relaxed">

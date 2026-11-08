@@ -1,1 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@800&display=swap');
 @import "tailwindcss";
+
+@theme {
+  --font-onest: "Onest", sans-serif;
+}
+:root {
+  --accent: #1e3a8a;
+  --purple: #7c3aed; 
+}
